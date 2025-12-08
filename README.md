@@ -1,5 +1,7 @@
 # Retail Demand Forecasting
 
+**Live demo:** https://retail-demand-forecasting-yoseph.streamlit.app
+
 This project started from a simple question:
 
 > If I manage dozens of stores, how do I know how much each one will sell in the next few weeks so I do not over-stock or run out?
@@ -12,7 +14,7 @@ play with forecasts and see simple inventory suggestions.
 
 ## Live demo
 
-**Streamlit app:** _coming soon_  
+**Streamlit app:**  https://retail-demand-forecasting-yoseph.streamlit.app
 This will be a public link once the app is deployed to Streamlit Community Cloud.
 
 
