@@ -15,7 +15,7 @@ play with forecasts and see simple inventory suggestions.
 ## Live demo
 
 **Streamlit app:**  https://retail-demand-forecasting-yoseph.streamlit.app
-This will be a public link once the app is deployed to Streamlit Community Cloud.
+
 
 
 
